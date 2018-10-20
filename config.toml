@@ -1,0 +1,7 @@
+baseURL = "https://www.ryoon.net/~ryoon/"
+languageCode = "ja"
+title = "ryoon"
+theme = "liquorice"
+
+[params]
+copyrightname = "Ryo ONODERA"
