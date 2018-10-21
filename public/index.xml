@@ -6,10 +6,20 @@
     <description>Recent content on ryoon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Oct 2018 19:15:56 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 21 Oct 2018 23:21:45 +0900</lastBuildDate>
     
 	<atom:link href="https://www.ryoon.net/~ryoon/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Me</title>
+      <link>https://www.ryoon.net/~ryoon/aboutme/</link>
+      <pubDate>Sun, 21 Oct 2018 23:21:45 +0900</pubDate>
+      
+      <guid>https://www.ryoon.net/~ryoon/aboutme/</guid>
+      <description> Name Ryo ONODERA
+Interests  pkgsrc NetBSD Environmental science  Waste management Recycling  Mineral processing (Ore dressing) Extractive metallurgy  Pyrometallurgy Hydrometallurgy  Computer science  Operating systems Compilers Embedded systems   Web pages  NetBSD wiki Github Twitter LinkedIn  </description>
+    </item>
     
     <item>
       <title>Reading</title>
