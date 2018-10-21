@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ryoon</title>
+    <link>https://www.ryoon.net/~ryoon/</link>
+    <description>Recent content on ryoon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sat, 20 Oct 2018 19:15:56 +0900</lastBuildDate>
+    
+	<atom:link href="https://www.ryoon.net/~ryoon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reading</title>
+      <link>https://www.ryoon.net/~ryoon/reading/</link>
+      <pubDate>Sat, 20 Oct 2018 19:15:56 +0900</pubDate>
+      
+      <guid>https://www.ryoon.net/~ryoon/reading/</guid>
+      <description> 文献購読メモ  「廃棄物ビジネス論」(書籍)  </description>
+    </item>
+    
+  </channel>
+</rss>
